@@ -250,6 +250,7 @@ int evaluateBoard(int board[][7]) {
         }
     }
 
+return score;
 }
 
 
