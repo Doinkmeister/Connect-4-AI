@@ -32,7 +32,7 @@ This project is an implementation of the classic Connect 4 game, enhanced with a
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Doinkmeister/Connect-4-AI.git
    ```
 2. Navigate to the project directory:
    ```bash
