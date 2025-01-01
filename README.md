@@ -26,8 +26,7 @@ This project is an implementation of the classic Connect 4 game, enhanced with a
 
 ## Getting Started
 ### Prerequisites
-- A C++ compiler (e.g., GCC, Clang, or MSVC)
-- A terminal or IDE to compile and run the program
+- A C++ compiler (tested on Windows with gcc 6.3.0)
 
 ### Installation
 1. Clone this repository to your local machine:
@@ -36,7 +35,7 @@ This project is an implementation of the classic Connect 4 game, enhanced with a
    ```
 2. Navigate to the project directory:
    ```bash
-   cd connect4-ai
+   cd Connect-4-AI
    ```
 3. Compile the program:
    ```bash
